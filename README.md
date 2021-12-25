@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigero456)](https://solved.ac/tigero456)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tigero456&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **tigero456/tigero456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

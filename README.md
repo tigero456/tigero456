@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigero456)](https://solved.ac/tigero456)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tigero456&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigero456&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Statistics](https://github-readme-stats.vercel.app/api?username=tigero456&show_icons=true)
